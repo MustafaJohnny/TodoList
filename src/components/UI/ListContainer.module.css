@@ -1,0 +1,14 @@
+.list-container {
+  max-width: 60rem;
+  border: 8px solid #d5d3e646;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  transition: all 0.8s;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%);
+}
+
+.list-container:hover {
+  transform: translateX(-20px);
+  border: 8px solid #d5d3e638;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 20%);
+}

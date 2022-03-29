@@ -1,0 +1,9 @@
+.footer {
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  margin: 12px;
+  font-family: inherit;
+  color: #1c1917af;
+  font-size: 13px;
+}

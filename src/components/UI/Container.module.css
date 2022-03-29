@@ -1,0 +1,7 @@
+.container {
+  margin: 0 auto;
+  max-width: 60rem;
+  padding-top: 7rem;
+  padding-bottom: 3rem;
+  transition: all 0.3s;
+}
