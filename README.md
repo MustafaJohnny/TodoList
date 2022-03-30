@@ -5,7 +5,7 @@ TodoList is a very simple and straight forward React project. The user can simpl
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://todolist-mustafa.netlify.app
 
 
 ## Built with
