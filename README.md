@@ -1,4 +1,4 @@
-# TodoList - React Project
+# TodoList - React Practical Project
 
 ## Overview
 TodoList is a very simple and straight forward React project. The user can simply add any tasks that he/she wants inside of the main input, and then the user can submit, the user also can delete any task that he/she wants. This project was a really fast one and I wrote all of it in just 2 days after one week of studying React and all the basic stuff about the framework, I wanted to foucs on managing State with different data and also Sharing code across multiple components. 
